@@ -1,0 +1,61 @@
+.cg{
+    font-family: "citrus-gothic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+}
+
+.cg\:italic{
+    font-family: "citrus-gothic", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.cg\:inline{
+    font-family: "citrus-gothic-inline", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.cg\:inline\:italic{
+    font-family: "citrus-gothic-inline", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+} 
+
+ .cg\:rough{
+    font-family: "citrus-gothic-rough", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.cg\:rough\:italic{
+    font-family: "citrus-gothic-rough", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.cg\:shadow{
+    font-family: "citrus-gothic-shadow", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.cg\:shadow\:italic{
+    font-family: "citrus-gothic-shadow", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.cg\:solid{
+    font-family: "citrus-gothic-solid", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.cg\:solid\:italic{
+    font-family: "citrus-gothic-solid", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
