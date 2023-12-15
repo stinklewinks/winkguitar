@@ -1,4 +1,7 @@
 import React from 'react'
+import 'berilliumcss/css/height.css';
+import 'berilliumcss/css/width.css';
+import 'berilliumcss/css/color/color.css';
 
 function Container() {
   return (
