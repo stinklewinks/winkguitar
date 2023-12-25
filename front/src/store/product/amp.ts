@@ -7,7 +7,8 @@ class Amp {
 
     // amp specific
     private powerOn!: boolean;
-    private standbyOn!: boolean; 
+    private standbyOn!: boolean;
+    private pluggedIn!: boolean; 
 
     getTone(){
         return this.tone;
@@ -29,6 +30,10 @@ class Amp {
         return this.presence;
     }
 
+    setPres(val: number){
+        this.presence = val;
+    }
+
     getGain(){
         return this.gain;
     }
@@ -43,5 +48,9 @@ class Amp {
 
     isStandbyOn(){
         return this.standbyOn;
+    }
+
+    isPluggedIn(){
+        return this.pluggedIn;
     }
 }

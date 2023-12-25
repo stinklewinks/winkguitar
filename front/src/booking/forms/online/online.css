@@ -1,0 +1,9 @@
+#username-field {
+    height: 5vh;
+    width: 15vw;
+    border: none;
+}
+
+input {
+    margin-top: 2vh;
+}
